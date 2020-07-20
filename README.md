@@ -23,9 +23,9 @@ Recriando interface do Nubank. Disciplina de Mobile Senai
 
 ## :man_technologist: Autor
 
-Foto | Nome | GitHub | Likedin | E-mail
----- | ---- | ------ | ------- | ------
-<img src="./doc/levi.jpg" width="100px">  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
+Nome | GitHub | E-mail
+---- | ------ | ------
+ Ariel Paradella dos Santos | [Ariel-Paradella](https://github.com/Ariel-Paradella) | ari-paradella@hotmail.com
 
 ## :computer: Tecnologias
 
@@ -53,14 +53,5 @@ Frameworks:
 ## :open_book: License
 
 Lançado em 2020.
-Este projeto está sob a [MIT license](https://github.com/rafaellevissa/nubank_Interface/blob/master/LICENSE).
+Este projeto está sob a [MIT license].
 
-<p align="center">
-    Feito com :heart: por <a href="https://github.com/rafaelevissa">Rafael Levi</a>
-</p>
-
-<!-- Markdown link & img dfn's -->
-
-[npm-license]: https://img.shields.io/npm/l/express?color=03ca6f&style=plastic
-[npm-version]: https://img.shields.io/npm/v/npm?color=333333&style=plastic
-[code-size]: https://img.shields.io/github/languages/code-size/rafaellevissa/appDevFlix?color=03ca6f&style=plastic
