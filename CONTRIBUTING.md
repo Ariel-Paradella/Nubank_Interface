@@ -1,4 +1,4 @@
-1. Faça o fork (<https://github.com/rafaellevissa/nubank_Interface/fork>)
+1. Faça o fork (<https://github.com/Ariel-Paradella/Nubank_Interface/fork>)
 2. Crie a branch da sua modificação (`git checkout -b feature/nomeDaFeature`)
 3. Commit suas mudanças (`git commit -am ':rocket: Add mais feature'`)
 4. Faça push para sua branch (`git push origin feature/nomeDaFeature`)
@@ -32,5 +32,5 @@
 git commit -m ":memo: Adiciona instruções de contribuição
 >
 > Foi criado o arquivo README.md com as instruções de
-> como fazer um bom commit
+> como fazer um bom comit
 ```
