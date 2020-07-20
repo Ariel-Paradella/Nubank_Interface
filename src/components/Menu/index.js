@@ -1,5 +1,5 @@
 import React from 'react';
-import QRCode from 'react-native-qrcode';
+import QRCode from 'react-native-qrcode-svg';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import {Container, Code, Nav, NavItem, NavText, SignOutButton, SignOutButtonText} from './styles';
 
